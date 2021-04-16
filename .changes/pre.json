@@ -1,4 +1,11 @@
 {
   "tag": "beta-rc",
-  "changes": [".changes/beta-rc.md"]
+  "changes": [
+    ".changes/beta-rc.md",
+    ".changes/cli.rs-camelcase-rename.md",
+    ".changes/clr.rs-fix-tauri-info.md",
+    ".changes/cta-remove-tauri-from-vanilla.md",
+    ".changes/event-once.md",
+    ".changes/nested-events.md"
+  ]
 }
